@@ -1,0 +1,15 @@
+###Modules
+
+- Python comes with prewritten code. These group of ready-made codes are called modules. 
+- Turtle model
+## RGB color
+(R, G, B)
+Red color:
+(255, 0, 0)
+
+
+Green COlor:
+(0, 255, 0)
+
+Blue color:
+(0, 0, 255)
